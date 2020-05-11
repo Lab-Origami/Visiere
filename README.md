@@ -15,8 +15,8 @@ Outillage:
     
 Paramètres de coupe :
 
-    - laser CO2 100W à 100% de sa puissance
-    - avance de 2.000 mm/minute
+    - laser CO2 100W à ??% de sa puissance
+    - vitesse avance ??
 
 Note :
 Ce design est compatible avec des élastiques de bureautique, de couture et à garrot.
